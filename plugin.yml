@@ -1,0 +1,9 @@
+main: com.github.synczinbr.cogudrops.Drops
+name: syncCoguDrops
+version: 1.1
+author: sync
+description: plugin encomendado por cogumc.xyz
+
+commands:
+  cogudrops:
+   description: unico comando do plugin, fds

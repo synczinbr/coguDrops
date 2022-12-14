@@ -1,0 +1,14 @@
+# plugin feito por synczinbr #
+# github.com/synczinbr #
+# discord: sync#6674 ou youtube ==> https://youtube.com/@synczinbr #
+
+# não altere o valor abaixo #
+fileversion: 1
+
+actionbar:
+ use: false
+ msg: '&aO item foi puxado diretamente pro inventário.'
+
+comandos:
+ desativar: false # necessario reiniciar pra registrar altereações
+ # desativa o unico comando do plugin (/cogudrops) #
