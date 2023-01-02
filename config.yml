@@ -1,0 +1,7 @@
+# plugin feito por synczinbr #
+# github.com/synczinbr #
+# discord: sync#6674 ou youtube ==> https://youtube.com/@synczinbr #
+
+actionbar:
+ use: true
+ msg: '&cO item foi puxado diretamente pro inventário.'
