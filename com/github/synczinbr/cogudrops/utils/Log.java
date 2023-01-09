@@ -51,16 +51,3 @@ public class Log {
 		console.sendMessage(ChatColor.AQUA + "     \\/ \\/         \\/     \\/ " + ChatColor.GRAY + "  * www.github.com/synczinbr");	
 	}
 }
-
-
-
-
-// -=> oi, se vc decompilou esse plugin, oia q easter egg bonitinho:
-//
-//    \    /\
-//     )  ( ') - <(miau, galerinha)
-//    (  /  )  "black cats
-//     \(__)|   aren't bad luck."
-//
-// ------> https://github.com/synczinbr  (fala cmg pra ver como melhoro meu obfuscator)
-	
